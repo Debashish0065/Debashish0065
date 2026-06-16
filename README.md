@@ -111,15 +111,19 @@ My goal is to become a proficient Backend Engineer capable of designing enterpri
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="www.linkedin.com/in/debashis-satapathy-839482232">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:debashissatapathy2003@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/its_me_debashis11/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
 
