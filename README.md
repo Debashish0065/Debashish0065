@@ -74,23 +74,21 @@ My goal is to become a proficient Backend Engineer capable of designing enterpri
 
 ---
 
-## 📈 Contribution Graph
+ 📈 Contribution Graph
 
 [![Debashis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Debashish0065&theme=tokyo-night&hide_border=true)](https://github.com/Debashish0065)
 
 ---
 
-## 📌 Featured Projects
+🚀 Featured Projects
 
-### 🚓 Crime Management System
-Spring Boot + MySQL + Thymeleaf based application for managing criminal records and investigations.
-
-### 🔐 Authentication System
-JWT & Spring Security based authentication and authorization project.
-
-### 📦 REST API Projects
-Collection of scalable RESTful APIs using Spring Boot and Hibernate.
-
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| 🔐 Secure Authentication System | JWT authentication with role-based authorization | Spring Boot, Spring Security, JWT, MySQL |
+| 🛒 E-Commerce REST API | Complete backend for e-commerce operations | Spring Boot, REST API, Hibernate, MySQL |
+| 🏦 Banking Management System | Secure banking and transaction management | Spring Boot, MySQL, Spring Security |
+| 📋 Task Management API | Task tracking and productivity backend | Spring Boot, PostgreSQL, Hibernate |
+| 🐳 Microservices Project | Distributed services with Docker | Spring Boot, Microservices, Docker |
 ---
 
 ## 🎯 2026 Goals
