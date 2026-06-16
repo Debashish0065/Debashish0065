@@ -91,13 +91,10 @@ My goal is to become a proficient Backend Engineer capable of designing enterpri
 | 🐳 Microservices Project | Distributed services with Docker | Spring Boot, Microservices, Docker |
 ---
 
-## 🎯 2026 Goals
+🤝 Let's Collaborate!
 
-- Master Spring Security
-- Learn Microservices Architecture
-- Deploy applications using Docker
-- Contribute to Open Source
-- Crack a Backend Developer role
+- 🤝 I'm open to contributing to backend-focused web apps or academic/real-world projects
+- ⚡ Fun fact: I love fixing bugs more than creating them 😄
 
 ---
 
