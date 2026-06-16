@@ -72,9 +72,6 @@ My goal is to become a proficient Backend Engineer capable of designing enterpri
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debashish0065&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debashish0065&theme=tokyonight&hide_border=true" />
-</p>
 ---
 
 ## 🔥 Contribution Streak
