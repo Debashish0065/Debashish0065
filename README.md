@@ -13,25 +13,25 @@ Building scalable backend applications with Java and Spring Boot
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Java+Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Spring+Security+%7C+Microservices&center=true&width=600&height=50&pause=1000" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 Computer Science Student
+Passionate Java Backend Developer focused on building scalable, secure, and high-performance applications. I enjoy transforming ideas into real-world solutions through clean code, efficient system design, and modern backend technologies.
 
-💻 Passionate about Backend Development and Software Engineering
+🚀 Developing robust backend applications using Java, Spring Boot, and REST APIs
 
-🌱 Currently learning:
-- Spring Security
-- JWT Authentication
-- Microservices
-- Docker
-- Redis
+🔐 Implementing secure authentication and authorization with Spring Security
 
-🔭 Currently working on:
-- Crime Management System
-- REST APIs using Spring Boot
+🗄️ Designing efficient database solutions with MySQL
 
-⚡ Fun Fact:
-> I enjoy debugging complex problems more than writing the first line of code.
+🏗️ Exploring Microservices Architecture, Docker, and Cloud Technologies
+
+💡 Strong believer in continuous learning, problem-solving, and writing maintainable code
+
+📚 Currently enhancing my expertise in enterprise application development and distributed systems
+
+🤝 Open to collaborating on innovative Java and Spring Boot projects
+
+My goal is to become a proficient Backend Engineer capable of designing enterprise-grade systems that are scalable, reliable, and impactful.
 
 ---
 
