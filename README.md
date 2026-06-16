@@ -13,7 +13,7 @@ Building scalable backend applications with Java and Spring Boot
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Java+Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Spring+Security+%7C+Microservices&center=true&width=600&height=50&pause=1000" alt="Typing SVG" />
 </p>
 
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 
 Passionate Java Backend Developer focused on building scalable, secure, and high-performance applications. I enjoy transforming ideas into real-world solutions through clean code, efficient system design, and modern backend technologies.
 
@@ -35,7 +35,7 @@ My goal is to become a proficient Backend Engineer capable of designing enterpri
 
 ---
 
-## ## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -65,7 +65,7 @@ My goal is to become a proficient Backend Engineer capable of designing enterpri
 
 ---
 
-## ## 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Debashish0065&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -74,11 +74,9 @@ My goal is to become a proficient Backend Engineer capable of designing enterpri
 
 ---
 
-## 🔥 Contribution Streak
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Debashish0065&theme=tokyonight" />
-</p>
+[![Debashis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Debashish0065&theme=tokyo-night&hide_border=true)](https://github.com/Debashish0065)
 
 ---
 
