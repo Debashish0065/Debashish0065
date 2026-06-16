@@ -134,5 +134,8 @@ My goal is to become a proficient Backend Engineer capable of designing enterpri
 📫 Feel free to connect with me for collaborations, open-source contributions, or backend development discussions.
 </p>
 <p align="center">
-⭐ If you like my work, consider starring my repositories.
+<div align="center">
+ Thanks for Visiting 👋
+I appreciate you taking the time to explore my profile.
+</div>
 </p>
