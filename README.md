@@ -9,8 +9,9 @@ Backend Developer • Java Enthusiast • Spring Boot Learner
 Building scalable backend applications with Java and Spring Boot
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Passionate+Java+Backend+Developer;Java;Spring+Boot;REST+APIs;Spring+Security;Microservices)](https://git.io/typing-svg)
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Java+Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Spring+Security+%7C+Microservices&center=true&width=600&height=50&pause=1000" alt="Typing SVG" />
+</p>
 
 ## 🚀 About Me
 
