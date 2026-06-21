@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=0,2,20,24&text=Debashis%20Satapathy&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=70&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1120,50:172554,100:1E40AF&text=Debashis%20Satapathy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20Ideas%20Into%20Production-Ready%20Applications&descAlignY=62&descSize=18)
 <h1 align="center">Hi 👋, I'm Debashis Satapathy</h1>
 
 <h3 align="center">
