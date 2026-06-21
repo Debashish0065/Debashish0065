@@ -74,12 +74,6 @@ My goal is to become a proficient Backend Engineer capable of designing enterpri
 
 ---
 
- 📈 Contribution Graph
-
-[![Debashis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Debashish0065&theme=tokyo-night&hide_border=true)](https://github.com/Debashish0065)
-
----
-
 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
