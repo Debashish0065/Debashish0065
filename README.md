@@ -1,7 +1,32 @@
+<div align="center">
+
+<h1>
+  💻 DEBASHIS <span style="color:#1E90FF;">SATAPATHY</span>
+</h1>
+
+<h3>
+🚀 Java Full Stack Developer | Backend Developer
+</h3>
+
+<p>
+Building Secure &amp; Scalable Enterprise Applications
+</p>
+
+<p>
+
+☕ Java • 🍃 Spring Boot • 🔐 Spring Security • 🌐 REST APIs • 🗄️ MySQL
+
+</p>
+
+</div>
+
+<hr>
+
 <h1 align="center">Hi 👋, I'm Debashis Satapathy</h1>
 
 <h3 align="center">
-🚀 Java Full Stack Developer | Backend Developer | Spring Boot Developer  | Software Developer
+🚀 Java Full Stack Developer | Backend Developer | Spring Boot Developer  |
+                        Java Developer | Software Developer
 </h3>
 
 <p align="center">
