@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debashis Satapathy</h1>
 
 <h3 align="center">
-🚀 Java Full Stack Developer | Backend Developer | Spring Boot Developer
+🚀 Java Full Stack Developer | Backend Developer | Spring Boot Developer  | Software Developer
 </h3>
 
 <p align="center">
