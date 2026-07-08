@@ -16,12 +16,6 @@ Passionate about building secure, scalable, and user-friendly web applications u
 
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Debashish0065&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
-</p>
-
 ---
 # 👨‍💻 About Me
 
