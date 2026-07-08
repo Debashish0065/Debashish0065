@@ -1,26 +1,4 @@
-<div align="center">
-
-<h1>
-  💻 DEBASHIS <span style="color:#1E90FF;">SATAPATHY</span>
-</h1>
-
-<h3>
-🚀 Java Full Stack Developer | Backend Developer
-</h3>
-
-<p>
-Building Secure &amp; Scalable Enterprise Applications
-</p>
-
-<p>
-
-☕ Java • 🍃 Spring Boot • 🔐 Spring Security • 🌐 REST APIs • 🗄️ MySQL
-
-</p>
-
-</div>
-
-<hr>
+![Header](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,25,30&text=Debashis%20Satapathy&fontSize=58&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Java%20Full%20Stack%20Developer%20%7C%20Backend%20Developer&descAlignY=58&descSize=22)
 
 <h1 align="center">Hi 👋, I'm Debashis Satapathy</h1>
 
