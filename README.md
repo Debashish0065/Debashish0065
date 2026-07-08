@@ -1,135 +1,218 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=0,2,20,24&text=Debashis%20Satapathy&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=70&descSize=20)
 <h1 align="center">Hi 👋, I'm Debashis Satapathy</h1>
 
 <h3 align="center">
-Backend Developer • Java Enthusiast • Spring Boot Learner
+🚀 Java Full Stack Developer | Backend Developer | Spring Boot Developer
 </h3>
 
 <p align="center">
-Building scalable backend applications with Java and Spring Boot
+
+Passionate about building secure, scalable, and user-friendly web applications using Java, Spring Boot, Spring Security, Hibernate, REST APIs, MySQL, Thymeleaf, Bootstrap, and modern software engineering practices.
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Java+Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Spring+Security+%7C+Microservices&center=true&width=600&height=50&pause=1000" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Always+Learning+New+Technologies" />
+
 </p>
 
- 👨‍💻 About Me
-
-Passionate Java Backend Developer focused on building scalable, secure, and high-performance applications. I enjoy transforming ideas into real-world solutions through clean code, efficient system design, and modern backend technologies.
-
-🚀 Developing robust backend applications using Java, Spring Boot, and REST APIs
-
-🔐 Implementing secure authentication and authorization with Spring Security
-
-🗄️ Designing efficient database solutions with MySQL
-
-🏗️ Exploring Microservices Architecture, Docker, and Cloud Technologies
-
-💡 Strong believer in continuous learning, problem-solving, and writing maintainable code
-
-📚 Currently enhancing my expertise in enterprise application development and distributed systems
-
-🤝 Open to collaborating on innovative Java and Spring Boot projects
-
-My goal is to become a proficient Backend Engineer capable of designing enterprise-grade systems that are scalable, reliable, and impactful.
-
----
-
- 🛠️ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Technologies
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
----
-
- 📊 GitHub Stats
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Debashish0065&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debashish0065&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://komarev.com/ghpvc/?username=Debashish0065&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</p>
+
+---
+# 👨‍💻 About Me
+
+I'm a passionate **Java Full Stack Developer** with a strong interest in building modern, scalable, and secure web applications.
+
+My expertise lies in developing enterprise applications using **Spring Boot**, while also creating responsive user interfaces with **Thymeleaf**, **Bootstrap**, **HTML**, **CSS**, and **JavaScript**.
+
+I enjoy solving real-world problems through clean architecture, efficient backend systems, and user-friendly web applications.
+
+### 🚀 Career Objective
+
+To work as a **Java Full Stack Developer / Backend Developer** where I can contribute to building high-quality software while continuously improving my technical and problem-solving skills.
+
+---
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
+
 </p>
 
 ---
 
-🚀 Featured Projects
+## ⚙️ Backend
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| 🔐 Secure Authentication System | JWT authentication with role-based authorization | Spring Boot, Spring Security, JWT, MySQL |
-| 🛒 E-Commerce REST API | Complete backend for e-commerce operations | Spring Boot, REST API, Hibernate, MySQL |
-| 🏦 Banking Management System | Secure banking and transaction management | Spring Boot, MySQL, Spring Security |
-| 📋 Task Management API | Task tracking and productivity backend | Spring Boot, PostgreSQL, Hibernate |
-| 🐳 Microservices Project | Distributed services with Docker | Spring Boot, Microservices, Docker |
----
+<p>
 
-<h2 align="center">🤝 Let's Collaborate</h2>
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
 
-<p align="center">
-🚀 Open to collaborating on Backend Development, Spring Boot, and Java projects.
 </p>
 
-<p align="center">
-💡 Interested in open-source contributions, innovative ideas, and real-world software solutions.
-</p>
-
-<p align="center">
-🌱 Always learning, building, and exploring new technologies.
-</p>
-
-<p align="center">
-⚡ Fun Fact: I enjoy debugging challenging issues almost as much as building new features 😄
-</p>
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- REST APIs
 
 ---
 
-## 🌐 Connect With Me
+## 🎨 Frontend
 
-<p align="center">
-<a href="www.linkedin.com/in/debashis-satapathy-839482232">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p>
 
-<a href="mailto:debashissatapathy2003@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js"/>
 
-<a href="https://www.instagram.com/its_me_debashis11/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+</p>
+
+- Thymeleaf
+- Responsive UI Design
+
+---
+
+## 🗄️ Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
 ---
 
+## 🛠️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman"/>
+
+</p>
+
+---
+# 🚀 Featured Projects
+
+## 🍽️ DineHub
+
+A full-stack Restaurant Ordering & Management System developed using Java Spring Boot.
+
+### Features
+
+- Secure Authentication
+- Spring Security
+- Shopping Cart
+- Admin Dashboard
+- Invoice Generation
+- Product Management
+- Email Notifications
+- Image Upload
+
+**Tech Stack**
+
+Java • Spring Boot • Spring Security • Hibernate • MySQL • Thymeleaf • Bootstrap
+
+---
+
+## 🏥 Patient Management System
+
+Hospital Management application developed using Spring Boot and REST APIs.
+
+### Features
+
+- Patient CRUD
+- Doctor Management
+- Appointment Management
+- REST APIs
+- MySQL Database
+
+---
+
+## 🔗 TinyURL
+
+A URL Shortener application for generating compact URLs.
+
+### Features
+
+- URL Shortening
+- Fast Redirection
+- REST API
+- MySQL Integration
+
+---
+# 📈 GitHub Analytics
 
 <p align="center">
-📫 Feel free to connect with me for collaborations, open-source contributions, or backend development discussions.
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Debashish0065&show_icons=true&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Debashish0065&theme=tokyonight"/>
+
 </p>
+
 <p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debashish0065&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+# 🌱 Currently Learning
+
+- Advanced Spring Boot
+- Microservices Architecture
+- Docker
+- Kubernetes
+- AWS Cloud
+- React.js
+
+---
+# 🤝 Connect With Me
+
+<p>
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/debashis-satapathy-839482232/
+
+</p>
+
+<p>
+
+📧 Email
+
+debashissatapathy2003@gmail.com
+
+</p>
+
+<p>
+
+💻 GitHub
+
+https://github.com/Debashish0065
+
+</p>
+
+---
+# 💡 Developer Philosophy
+
+> "Great software is built with clean code, continuous learning, and a passion for solving real-world problems."
+
+---
 <div align="center">
- Thanks for Visiting 👋
-I appreciate you taking the time to explore my profile.
+
+## ⭐ Thanks for visiting my profile!
+
+💙 Java Full Stack Developer • Backend Developer • Spring Boot Enthusiast
+
+**Always Learning • Always Building • Always Improving 🚀**
+
+If you like my work, feel free to ⭐ my repositories and connect with me!
+
 </div>
-</p>
