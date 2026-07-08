@@ -143,18 +143,18 @@ A URL Shortener application for generating compact URLs.
 # 📈 GitHub Analytics
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Debashish0065&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Debashish0065&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Debashish0065&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debashish0065&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://streak-stats.demolab.com?user=Debashish0065&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debashish0065&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 
 ---
 # 🌱 Currently Learning
