@@ -140,21 +140,27 @@ A URL Shortener application for generating compact URLs.
 - MySQL Integration
 
 ---
-# 📈 GitHub Analytics
+# 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Debashish0065&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Debashish0065&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Debashish0065&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Debashish0065&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debashish0065&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
----
+<img src="https://img.shields.io/github/followers/Debashish0065?style=for-the-badge" />
+
+<img src="https://img.shields.io/github/stars/Debashish0065?style=for-the-badge" />
+
+<img src="https://img.shields.io/github/repo-size/Debashish0065/DineHub?style=for-the-badge" />
+
+<img src="https://img.shields.io/github/last-commit/Debashish0065/DineHub?style=for-the-badge" />
+
+</p>
 
 ---
 # 🌱 Currently Learning
