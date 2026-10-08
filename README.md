@@ -94,11 +94,12 @@ To work as a **Java Full Stack Developer / Backend Developer** where I can contr
 </p>
 
 ---
+---
 # 🚀 Featured Projects
 
 ## 🍽️ DineHub
 
-A full-stack Restaurant Ordering & Management System developed using Java Spring Boot.
+A full-stack **Restaurant Ordering & Management System** developed using Java and Spring Boot.
 
 ### Features
 
@@ -117,30 +118,70 @@ Java • Spring Boot • Spring Security • Hibernate • MySQL • Thymeleaf �
 
 ---
 
-## 🏥 Patient Management System
+## 🏥 Patient Management Microservices
 
-Hospital Management application developed using Spring Boot and REST APIs.
+A **microservices-based Patient Management System** designed to manage patients, doctors, appointments, and healthcare-related operations through independently deployable services.
 
 ### Features
 
-- Patient CRUD
+- Patient Management
 - Doctor Management
 - Appointment Management
 - REST APIs
+- Microservices Architecture
+- Service-to-Service Communication
 - MySQL Database
+- Scalable Backend Architecture
+
+**Tech Stack**
+
+Java • Spring Boot • Spring Cloud • REST APIs • Microservices • Spring Data JPA • Hibernate • MySQL • Maven
 
 ---
 
-## 🔗 TinyURL
+## 🤖 HireAI
 
-A URL Shortener application for generating compact URLs.
+An **AI-powered Recruitment & Interview Platform** that connects candidates, HR teams, and administrators through the complete recruitment lifecycle.
 
 ### Features
 
-- URL Shortening
-- Fast Redirection
-- REST API
-- MySQL Integration
+- Candidate Registration & Authentication
+- Role-Based Access Control
+- Job Creation & Management
+- Job Applications
+- Resume Upload & PDF Processing
+- Resume Analysis
+- Job Matching
+- AI-Assisted Interviews
+- Interview Question & Answer Management
+- Interview Evaluation & Scoring
+- Candidate Performance Tracking
+- HR Dashboard
+- Admin Dashboard
+- Recruitment Analytics
+- Notifications
+- Audit Logging
+
+### Recruitment Workflow
+
+Job Creation
+     ↓
+Candidate Application
+     ↓
+Resume Processing
+     ↓
+HR Screening
+     ↓
+Interview Assignment
+     ↓
+AI-Assisted Interview
+     ↓
+Evaluation & Scoring
+     ↓
+HR / Admin Review
+
+**Tech Stack**
+Java • Spring Boot • Spring Security • JWT • Spring Data JPA • Hibernate • MySQL • React.js • Vite • REST APIs • Docker • AWS EC2 • Amazon ECR • AI Integration
 
 ---
 # 📊 GitHub Activity
