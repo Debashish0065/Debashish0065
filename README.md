@@ -407,6 +407,7 @@ I'm continuously expanding my skills in **backend engineering, distributed syste
 
 </div>
 ---
+
 # 💡 Developer Philosophy
 
 > "Build software that is clean, scalable, secure, and useful — while continuously learning and improving along the way."
