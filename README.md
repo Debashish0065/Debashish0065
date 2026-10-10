@@ -406,6 +406,7 @@ I'm continuously expanding my skills in **backend engineering, distributed syste
 **🚀 Let's connect, collaborate, and build impactful software together!**
 
 </div>
+
 ---
 
 # 💡 Developer Philosophy
